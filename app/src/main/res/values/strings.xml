@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Help student</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Describe application</string>
+    <string name="nav_item_friends">The study phrases</string>
+    <string name="nav_item_notifications">Needs phrases</string>
+    <string name="nav_item_hellow">Hellow phrases</string>
+    <string name="nav_item_tts">Text to speech</string>
+    <string name="nav_item_tashkeel">Voyellisation of texts</string>
+    <string name="nav_item_settingsound">Setting sound</string>
+    <string name="describe">"Helping mute students" is an Android mobile application whose mission is to help students who are unable to speak by providing a way to compensate the human voice.This application allows to pronounce any expression automatically by usinga Text¬-To-Speech system.Initially, this application provides many expressions classified according to theirs fields ("study expressions", "needs expressions" and "meeting and greeting expressions"). The user can also add new expressions. There isalso the possibility of the vocalization of any expression written without having to add it to the lists of expressions.Moreover, the application offers the possibility of voyellization of texts by exploiting "Mishkal" services. </string>
+    <string name="add">Add expression</string>
+    <string name="del">Delete expression</string>
+    <string name="Mod">Edite expression</string>
+    <string name="exp">Expression</string>
+    <string name="num">Number of expression</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_hellow</item>
+        <item>@string/nav_item_tts</item>
+        <item>@string/nav_item_tashkeel</item>
+    </string-array>
+
+    <string name="title_messages">Needs phrases</string>
+    <string name="title_hellow">Hellow phrases</string>
+    <string name="title_tts">Text to speech</string>
+    <string name="title_tashkeel">Voyellisation of texts</string>
+    <string name="title_settingsound">Setting sound</string>
+    <string name="title_friends">The study phrases</string>
+    <string name="title_home">Application help students</string>
+
+    <string name="off">Turn off the sound</string>
+
+    <string name="D1">لَمْ أَفْهَمِ الدَّرْسَ</string>
+    <string name="D2">أَعِدْ مِنْ فَضْلِكَ</string>
+    <string name="D3">مَاذَا تَقْصِدُ</string>
+    <string name="D4">هَلْ هَذَا صَحِيحٌ فِي جَمِيعِ الْحَالَاتِ</string>
+    <string name="D5">هَلْ يُمْكِنُ أَنْ أَطْرَحَ سُؤَالًا</string>
+    <string name="D6">لَقَدْ أَكْمَلْتُ التَّمْرِينَ</string>
+    <string name="D7">حَسَنًا لَقَدْ فَهِمْتُ</string>
+    <string name="D8">هَلْ مَا قُمْتُ بِهِ صَحِيحٌ</string>
+    <string name="D9">سُؤَالِي هُوَ نَفْسُ سُؤَالِ زَمِيلِي</string>
+    <string name="D10">جَوَابِي هُوَ نَفْسُ جَوَابِ زَمِيلِي</string>
+    <string name="DD11">لَمْ أَقْتَنِعْ بِهَذِهِ النَّتِيجَةِ</string>
+    <string name="DD12">هَلْ وَجَدْتَ نَفْسَ النَّتِيجَةِ يَا زَمِيلِي</string>
+    <string name="DD13">لَقَدْ أَكْمَلْتُ نَسْخَ مَا هُوَ مَكْتُوبٌ فِي السَّبُّورَةِ</string>
+    <string name="DD14">لَمْ أُكْمِلْ بَعْدُ نَسْخَ مَا هُوَ مَكْتُوبٌ فِي السَّبُّورَةِ</string>
+    <string name="DD15">أَرْجُو أَلَّا تَمْسَحَ السَّبُّورَةَ الْآنَ يَا أُسْتَاذُ</string>
+    <string name="DD16">مَاذَا كَتَبْتَ هُنَالِكَ بِالضَّبْطِ يَا أُسْتَاذُ</string>
+    <string name="DD17">مَاذَا عَنِ الْجَانِبِ التَّطْبِيقِيِّ </string>
+
+    <string name="confirme">Delete an expression </string>
+    <string name="msgconf">Do you want to delete this expression?</string>
+
+    <string name="add2">expression was added</string>
+    <string name="del2">expression was deleted</string>
+    <string name="Mod2">expression was edited</string>
+    <string name="not">this expression is not found</string>
+    <string name="notnumber">Is not a number of expression</string>
+
+    <string name="D11">هَلْ أَسْتَطِيعُ الْخُرُوجَ قَلِيلًا</string>
+    <string name="D21">هَلْ أَسْتَطِيعُ الذَّهَابَ إِلَى الْمِرْحَاضِ</string>
+    <string name="D31">أَلْمْ تَنْتَهِ الْحِصَّةُ</string>
+    <string name="D41">لَا أَشْعُرُ أَنِّي فِي حَالَةٍ صِحِّيَّةٍ جَيِّدَةٍ</string>
+    <string name="D51">أَحْتَاجُ إِلَى قَلَمٍ يَا أُسْتَاذُ</string>
+    <string name="D61">هَلْ يُمْكِنُ أَنْ تُعِيرَنِي قَلَمًا يَا زَمِيلِي </string>
+    <string name="D71">هَلْ يُمْكِنُ أَنْ أَخْرُجَ كَيْ أَرُدَّ عَلَى الْهَاتِفِ </string>
+    <string name="D81">هَلْ يُمْكِنُ أَنْ تُنَاوِلَنِي قَارُورَةَ الْمَاءِ يَا زَمِيلِي </string>
+    <string name="D91">هَلْ يُمْكِنُ أَنْ أُغَيِّرَهَذَا الْكُرْسِيَّ </string>
+    <string name="D101">كَمِ السَّاعَةُ يَا زَمِيلِي </string>
+
+
+    <string name="D12">السَّلَامُ عَلَيْكُمْ</string>
+    <string name="D22">إِلَى اللِّقَاءِ</string>
+    <string name="D32">شُكْرًا جَزِيلًا</string>
+    <string name="D42">لَا شُكْرَ عَلَى وَاجِبٍ</string>
+    <string name="D52">صَبَاحُ الْخَيْرِ</string>
+    <string name="D62">مَسَاءُ الْخَيْرِ</string>
+    <string name="D72">كَيْفَ الْحَالُ</string>
+    <string name="D82">هَلْ أَنْتَ بِخَيْرٍ </string>
+    <string name="D92">بِخَيْرٍ وَالْحَمْدُ للهِ</string>
+    <string name="D102">عِيدُكُمْ مُبَارَكٌ</string>
+    <string name="D112">نَلْتَقِي غَدًا إِنْ شَاءَ اللهُ</string>
+    <string name="D122">نَلْتَقِي الْأُسْبُوعَ الْمُقْبِلَ إِنْ شَاءَ اللهُ</string>
+    <string name="D132">نَلْتَقِي بَعْدَ الْعُطْلَةِ إِنْ شَاءَ اللهُ</string>
+    <string name="D142">عُطْلَةً سَعِيدَةً</string>
+    <string name="D152">فِي أَمَانِ اللهِ</string>
+    <string name="D162">سَلِّمْ لِي عَلَى الْأَصْدِقَاءِ</string>
+
+
+
+
+    <string name="Speech1">Speak</string>
+
+    <string name="Speech">Speak without voyellisation</string>
+    <string name="SpeechM">Speak with voyellisation</string>
+    <string name="TTS">TEXT TO SPEECH</string>
+    <string name="search_label">search</string>
+    <string name="search_hint">search</string>
+
+    <string name="conex">no internet connection</string>
+
+    <string name="speakexp">Speak expression</string>
+    <string name="speakexpQ">Would you speak expression?</string>
+
+    <string name="QSpeech">without voyellisation</string>
+    <string name="QSpeechM">with voyellisation</string>
+
+    <string name="Mod3">new expression</string>
+
+    <string name="Tashkeel">Voyellisation of texts</string>
+    <string name="Tashkeel1">Voyellise the text</string>
+
+</resources>

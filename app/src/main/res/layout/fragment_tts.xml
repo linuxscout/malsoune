@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="info.androidhive.materialdesign.activity.TtsFragment">
+
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="100dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="45dp"
+        android:text="@string/TTS"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="60dip"
+        android:hint="@string/Speech1"
+        android:textSize="20sp"
+        android:background="@drawable/edittextstyle" >
+    </EditText>
+
+    <Button
+        android:id="@+id/bt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Speech"
+        android:background="@drawable/button_selector"/>
+
+    <Button
+        android:id="@+id/bt1M"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SpeechM"
+        android:background="@drawable/button_selector"/>
+
+    <Button
+        android:id="@+id/bt2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/off"
+        android:background="@drawable/button_selector"/>
+
+</LinearLayout>

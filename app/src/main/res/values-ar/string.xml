@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_home">تطبيق مساعدة الطلبة البكم</string>
+    <string name="nav_item_home">وصف التطبيق</string>
+    <string name="describe">"مُسَاعَدَةُ الطَّلَبَةِ الْبُكْمِ" تَطْبِيقٌ يَعْمَلُ وِفْقَ بِيئَةِ الْمُوبَايْلِ أَنْدُرُوِيدْ، مُهِمَّتُهُ هِيَ مُسَاعَدَةُ الطَّلَبَةِ غَيْرِ الْقَادِرِينَ عَلَى الْكَلَامِ وَذَلِكَ بِتَوْفِيرِ وَسِيلَةٍ تُعَوِّضُ الصَّوْتَ الْبَشَرِيَّ. يَسْمَحُ هَذَا التَّطْبِيقُ بِنُطْقِ أَيَّةِ عِبَارَةٍ نُطْقًا آلِيًّا اعْتِمَادًا عَلَى نِظَامِ تَوْلِيفٍ صَوْتِيٍّ، وَمَبْدَئِيًّا يُوَفِّرُ هَذَا التَّطْبِيقُ عِدَّةَ عِبَارَاتٍ أَصْلِيَّةٍ مُصَنَّفَةٍ وِفْقَ مَجَالَاتِهَا إِلَى "عِبَارَاتِ الدِّرَاسَةِ"، "عِبَارَاتِ الْاِحْتِيَاجَاتِ" وَ"عِبَارَاتِ اللِّقَاءِ وَالتَّحِيَّةِ"، كَمَا يُوَفِّرُ كَذَلِكَ إِمْكَانِيَّةَ إِضَافَةِ عِبَارَاتٍ جَدِيدَةٍ، وَكَذَا إِمْكَانِيَّةَ نُطْقِ أَيَّةِ عِبَارَةٍ تَتِمُّ كِتَابَتُهَا دُونَ الْحَاجَةِ إِلَى إِضَافَتِهَا إِلَى قَوَائِمِ الْعِبَارَاتِ. عِلَاوَةً عَلَى ذَلِكَ فَإِنَّهُ يُوَفِّرُ إِمْكَانِيَّةَ تَشْكِيلِ النُّصُوصِ قَبْلَ إِضَافَتِهَا أَوْ نُطْقِهَا حَتَّى يَكُونَ نُطْقُهَا أَدَقَّ ، وَهَذَا اعْتِمَادًا عَلَى الْمُشَكِّلِ الْآلِيِّ "مِشْكَال".</string>
+    <string name="nav_item_friends">عبارات الدراسة</string>
+    <string name="title_friends">عبارات الدراسة</string>
+    <string name="add">إضافة عبارة</string>
+    <string name="del">حذف عبارة</string>
+    <string name="Mod">تعديل عبارة</string>
+    <string name="exp">العبارة</string>
+    <string name="num">رقم العبارة</string>
+    <string name="nav_item_notifications">عبارات الحتياجات</string>
+    <string name="title_messages">عبارات الاحتياجات</string>
+
+    <string name="nav_item_hellow">عبارات اللقاء و التحية</string>
+    <string name="nav_item_tts">تحويل النص إلى كلام</string>
+    <string name="nav_item_tashkeel">تشكيل النصوص</string>
+    <string name="nav_item_settingsound">ضبط الصوت</string>
+
+    <string name="title_hellow">عبارات اللقاء و التحية</string>
+    <string name="title_tts">تحويل النص إلى كلام</string>
+    <string name="title_tashkeel">تشكيل النصوص</string>
+    <string name="title_settingsound">ضبط الصوت</string>
+
+    <string name="app_name">مساعدة الطلبة البكم</string>
+    <string name="action_settings">الضبط</string>
+    <string name="action_search">بحث</string>
+    <string name="drawer_open">فتح</string>
+    <string name="drawer_close">غلق</string>
+
+    <string name="off">إيقاف الصوت</string>
+
+    <string name="D1">لَمْ أَفْهَمِ الدَّرْسَ</string>
+    <string name="D2">أَعِدْ مِنْ فَضْلِكَ</string>
+    <string name="D3">مَاذَا تَقْصِدُ</string>
+    <string name="D4">هَلْ هَذَا صَحِيحٌ فِي جَمِيعِ الْحَالَاتِ</string>
+    <string name="D5">هَلْ يُمْكِنُ أَنْ أَطْرَحَ سُؤَالًا</string>
+    <string name="D6">لَقَدْ أَكْمَلْتُ التَّمْرِينَ</string>
+    <string name="D7">حَسَنًا لَقَدْ فَهِمْتُ</string>
+    <string name="D8">هَلْ مَا قُمْتُ بِهِ صَحِيحٌ</string>
+    <string name="D9">سُؤَالِي هُوَ نَفْسُ سُؤَالِ زَمِيلِي</string>
+    <string name="D10">جَوَابِي هُوَ نَفْسُ جَوَابِ زَمِيلِي</string>
+    <string name="DD11">لَمْ أَقْتَنِعْ بِهَذِهِ النَّتِيجَةِ</string>
+    <string name="DD12">هَلْ وَجَدْتَ نَفْسَ النَّتِيجَةِ يَا زَمِيلِي</string>
+    <string name="DD13">لَقَدْ أَكْمَلْتُ نَسْخَ مَا هُوَ مَكْتُوبٌ فِي السَّبُّورَةِ</string>
+    <string name="DD14">لَمْ أُكْمِلْ بَعْدُ نَسْخَ مَا هُوَ مَكْتُوبٌ فِي السَّبُّورَةِ</string>
+    <string name="DD15">أَرْجُو أَلَّا تَمْسَحَ السَّبُّورَةَ الْآنَ يَا أُسْتَاذُ</string>
+    <string name="DD16">مَاذَا كَتَبْتَ هُنَالِكَ بِالضَّبْطِ يَا أُسْتَاذُ</string>
+    <string name="DD17">مَاذَا عَنِ الْجَانِبِ التَّطْبِيقِيِّ </string>
+
+
+    <string name="confirme">حذف عبارة</string>
+    <string name="msgconf">هل تريد حذف هذه العبارة؟</string>
+
+    <string name="add2">تمت إضافة العبارة</string>
+    <string name="del2">تم حذف العبارة</string>
+    <string name="Mod2">تم تعديل العبارة</string>
+    <string name="not">لم يتم العثور على هذه العبارة</string>
+    <string name="notnumber">هذا ليس رقم عبارة</string>
+
+    <string name="D11">هَلْ أَسْتَطِيعُ الْخُرُوجَ قَلِيلًا</string>
+    <string name="D21">هَلْ أَسْتَطِيعُ الذَّهَابَ إِلَى الْمِرْحَاضِ</string>
+    <string name="D31">أَلْمْ تَنْتَهِ الْحِصَّةُ</string>
+    <string name="D41">لَا أَشْعُرُ أَنِّي فِي حَالَةٍ صِحِّيَّةٍ جَيِّدَةٍ</string>
+    <string name="D51">أَحْتَاجُ إِلَى قَلَمٍ يَا أُسْتَاذُ</string>
+    <string name="D61">هَلْ يُمْكِنُ أَنْ تُعِيرَنِي قَلَمًا يَا زَمِيلِي </string>
+    <string name="D71">هَلْ يُمْكِنُ أَنْ أَخْرُجَ كَيْ أَرُدَّ عَلَى الْهَاتِفِ </string>
+    <string name="D81">هَلْ يُمْكِنُ أَنْ تُنَاوِلَنِي قَارُورَةَ الْمَاءِ يَا زَمِيلِي </string>
+    <string name="D91">هَلْ يُمْكِنُ أَنْ أُغَيِّرَهَذَا الْكُرْسِيَّ </string>
+    <string name="D101">كَمِ السَّاعَةُ يَا زَمِيلِي </string>
+
+
+    <string name="D12">السَّلَامُ عَلَيْكُمْ</string>
+    <string name="D22">إِلَى اللِّقَاءِ</string>
+    <string name="D32">شُكْرًا جَزِيلًا</string>
+    <string name="D42">لَا شُكْرَ عَلَى وَاجِبٍ</string>
+    <string name="D52">صَبَاحُ الْخَيْرِ</string>
+    <string name="D62">مَسَاءُ الْخَيْرِ</string>
+    <string name="D72">كَيْفَ الْحَالُ</string>
+    <string name="D82">هَلْ أَنْتَ بِخَيْرٍ </string>
+    <string name="D92">بِخَيْرٍ وَالْحَمْدُ للهِ</string>
+    <string name="D102">عِيدُكُمْ مُبَارَكٌ</string>
+    <string name="D112">نَلْتَقِي غَدًا إِنْ شَاءَ اللهُ</string>
+    <string name="D122">نَلْتَقِي الْأُسْبُوعَ الْمُقْبِلَ إِنْ شَاءَ اللهُ</string>
+    <string name="D132">نَلْتَقِي بَعْدَ الْعُطْلَةِ إِنْ شَاءَ اللهُ</string>
+    <string name="D142">عُطْلَةً سَعِيدَةً</string>
+    <string name="D152">فِي أَمَانِ اللهِ</string>
+    <string name="D162">سَلِّمْ لِي عَلَى الْأَصْدِقَاءِ</string>
+
+    <string name="Speech1">تكلم</string>
+
+    <string name="Speech">تكلم بدون تشكيل</string>
+    <string name="SpeechM">تكلم بالتشكيل</string>
+    <string name="TTS">تحويل الصوت إلى كلام</string>
+
+    <string name="search_label">search</string>
+    <string name="search_hint">search</string>
+
+    <string name="conex">لا يوجد اتصال بالأنترنت</string>
+
+    <string name="speakexp">نطق العبارة</string>
+    <string name="speakexpQ">هل تريد نطق العبارة؟</string>
+
+    <string name="QSpeech">بدون تشكيل</string>
+    <string name="QSpeechM">بالتشكيل</string>
+
+    <string name="Mod3">العبارة الجديدة</string>
+
+    <string name="Tashkeel">تشكيل النصوص</string>
+
+    <string name="Tashkeel1">شكل النص</string>
+</resources>
+
